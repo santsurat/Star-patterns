@@ -1,0 +1,15 @@
+C:\Users\sants\source\repos\Full pyramid\bin\Debug\net6.0\Full pyramid.exe
+C:\Users\sants\source\repos\Full pyramid\bin\Debug\net6.0\Full pyramid.deps.json
+C:\Users\sants\source\repos\Full pyramid\bin\Debug\net6.0\Full pyramid.runtimeconfig.json
+C:\Users\sants\source\repos\Full pyramid\bin\Debug\net6.0\Full pyramid.dll
+C:\Users\sants\source\repos\Full pyramid\bin\Debug\net6.0\Full pyramid.pdb
+C:\Users\sants\source\repos\Full pyramid\obj\Debug\net6.0\Full pyramid.csproj.AssemblyReference.cache
+C:\Users\sants\source\repos\Full pyramid\obj\Debug\net6.0\Full pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sants\source\repos\Full pyramid\obj\Debug\net6.0\Full pyramid.AssemblyInfoInputs.cache
+C:\Users\sants\source\repos\Full pyramid\obj\Debug\net6.0\Full pyramid.AssemblyInfo.cs
+C:\Users\sants\source\repos\Full pyramid\obj\Debug\net6.0\Full pyramid.csproj.CoreCompileInputs.cache
+C:\Users\sants\source\repos\Full pyramid\obj\Debug\net6.0\Full pyramid.dll
+C:\Users\sants\source\repos\Full pyramid\obj\Debug\net6.0\refint\Full pyramid.dll
+C:\Users\sants\source\repos\Full pyramid\obj\Debug\net6.0\Full pyramid.pdb
+C:\Users\sants\source\repos\Full pyramid\obj\Debug\net6.0\Full pyramid.genruntimeconfig.cache
+C:\Users\sants\source\repos\Full pyramid\obj\Debug\net6.0\ref\Full pyramid.dll

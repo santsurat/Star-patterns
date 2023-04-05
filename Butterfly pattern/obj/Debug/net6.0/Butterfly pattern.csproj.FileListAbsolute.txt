@@ -1,0 +1,15 @@
+C:\Users\sants\source\repos\Butterfly pattern\bin\Debug\net6.0\Butterfly pattern.exe
+C:\Users\sants\source\repos\Butterfly pattern\bin\Debug\net6.0\Butterfly pattern.deps.json
+C:\Users\sants\source\repos\Butterfly pattern\bin\Debug\net6.0\Butterfly pattern.runtimeconfig.json
+C:\Users\sants\source\repos\Butterfly pattern\bin\Debug\net6.0\Butterfly pattern.dll
+C:\Users\sants\source\repos\Butterfly pattern\bin\Debug\net6.0\Butterfly pattern.pdb
+C:\Users\sants\source\repos\Butterfly pattern\obj\Debug\net6.0\Butterfly pattern.csproj.AssemblyReference.cache
+C:\Users\sants\source\repos\Butterfly pattern\obj\Debug\net6.0\Butterfly pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sants\source\repos\Butterfly pattern\obj\Debug\net6.0\Butterfly pattern.AssemblyInfoInputs.cache
+C:\Users\sants\source\repos\Butterfly pattern\obj\Debug\net6.0\Butterfly pattern.AssemblyInfo.cs
+C:\Users\sants\source\repos\Butterfly pattern\obj\Debug\net6.0\Butterfly pattern.csproj.CoreCompileInputs.cache
+C:\Users\sants\source\repos\Butterfly pattern\obj\Debug\net6.0\Butterfly pattern.dll
+C:\Users\sants\source\repos\Butterfly pattern\obj\Debug\net6.0\refint\Butterfly pattern.dll
+C:\Users\sants\source\repos\Butterfly pattern\obj\Debug\net6.0\Butterfly pattern.pdb
+C:\Users\sants\source\repos\Butterfly pattern\obj\Debug\net6.0\Butterfly pattern.genruntimeconfig.cache
+C:\Users\sants\source\repos\Butterfly pattern\obj\Debug\net6.0\ref\Butterfly pattern.dll

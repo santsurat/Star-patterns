@@ -1,0 +1,15 @@
+C:\Users\sants\source\repos\Diamond pattern\bin\Debug\net6.0\Diamond pattern.exe
+C:\Users\sants\source\repos\Diamond pattern\bin\Debug\net6.0\Diamond pattern.deps.json
+C:\Users\sants\source\repos\Diamond pattern\bin\Debug\net6.0\Diamond pattern.runtimeconfig.json
+C:\Users\sants\source\repos\Diamond pattern\bin\Debug\net6.0\Diamond pattern.dll
+C:\Users\sants\source\repos\Diamond pattern\bin\Debug\net6.0\Diamond pattern.pdb
+C:\Users\sants\source\repos\Diamond pattern\obj\Debug\net6.0\Diamond pattern.csproj.AssemblyReference.cache
+C:\Users\sants\source\repos\Diamond pattern\obj\Debug\net6.0\Diamond pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sants\source\repos\Diamond pattern\obj\Debug\net6.0\Diamond pattern.AssemblyInfoInputs.cache
+C:\Users\sants\source\repos\Diamond pattern\obj\Debug\net6.0\Diamond pattern.AssemblyInfo.cs
+C:\Users\sants\source\repos\Diamond pattern\obj\Debug\net6.0\Diamond pattern.csproj.CoreCompileInputs.cache
+C:\Users\sants\source\repos\Diamond pattern\obj\Debug\net6.0\Diamond pattern.dll
+C:\Users\sants\source\repos\Diamond pattern\obj\Debug\net6.0\refint\Diamond pattern.dll
+C:\Users\sants\source\repos\Diamond pattern\obj\Debug\net6.0\Diamond pattern.pdb
+C:\Users\sants\source\repos\Diamond pattern\obj\Debug\net6.0\Diamond pattern.genruntimeconfig.cache
+C:\Users\sants\source\repos\Diamond pattern\obj\Debug\net6.0\ref\Diamond pattern.dll
