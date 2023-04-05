@@ -1,0 +1,15 @@
+C:\Users\sants\source\repos\Square pattern\bin\Debug\net6.0\Square pattern.exe
+C:\Users\sants\source\repos\Square pattern\bin\Debug\net6.0\Square pattern.deps.json
+C:\Users\sants\source\repos\Square pattern\bin\Debug\net6.0\Square pattern.runtimeconfig.json
+C:\Users\sants\source\repos\Square pattern\bin\Debug\net6.0\Square pattern.dll
+C:\Users\sants\source\repos\Square pattern\bin\Debug\net6.0\Square pattern.pdb
+C:\Users\sants\source\repos\Square pattern\obj\Debug\net6.0\Square pattern.csproj.AssemblyReference.cache
+C:\Users\sants\source\repos\Square pattern\obj\Debug\net6.0\Square pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sants\source\repos\Square pattern\obj\Debug\net6.0\Square pattern.AssemblyInfoInputs.cache
+C:\Users\sants\source\repos\Square pattern\obj\Debug\net6.0\Square pattern.AssemblyInfo.cs
+C:\Users\sants\source\repos\Square pattern\obj\Debug\net6.0\Square pattern.csproj.CoreCompileInputs.cache
+C:\Users\sants\source\repos\Square pattern\obj\Debug\net6.0\Square pattern.dll
+C:\Users\sants\source\repos\Square pattern\obj\Debug\net6.0\refint\Square pattern.dll
+C:\Users\sants\source\repos\Square pattern\obj\Debug\net6.0\Square pattern.pdb
+C:\Users\sants\source\repos\Square pattern\obj\Debug\net6.0\Square pattern.genruntimeconfig.cache
+C:\Users\sants\source\repos\Square pattern\obj\Debug\net6.0\ref\Square pattern.dll
