@@ -1,5 +1,5 @@
 
-# Star-patterns
+# Star-patterns ⭐
 
 // Using c#
 
